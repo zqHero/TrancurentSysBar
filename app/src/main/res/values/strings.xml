@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TrancurentSysBar</string>
+
+    <string name="tranString">状态栏原本应该占有的位置没了,
+        不是我们想要的效果,需要我们在
+        activity应用的theme中添加
+        android:fitsSystemWindows,
+        加入此主题后恢复状态栏的 位置空间</string>
+
+
+    <string name="inString">
+        触摸显示或消失状态栏，多用于阅读App中。
+    </string>
+
+
+</resources>
